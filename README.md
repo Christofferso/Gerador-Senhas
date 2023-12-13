@@ -1,2 +1,2 @@
 # Gerador-Senhas
-Site para utilização do metodo Pomodoro. Tecnologias que foram utilizadas: HTML, CSS e JavaScript
+Site para gerar senhas para usuarios. Linguagens utilizadas foram JavaScript para gerar as senhas e  HTML e CSS para estilização do site e interação do mesmo
